@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my goals
 - 📫 How to reach me: by email
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: ... I am surfing my life
 -->
