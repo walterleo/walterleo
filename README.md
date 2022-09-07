@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 
-**walterleo/walterleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**walterleo** is a ✨ _special_ ✨ repository.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working at e-payday
+- 🔭 I’m currently working at CSnet
 - 🌱 I’m currently learning Micro services
 - 👯 I’m looking to collaborate on any open source
-- 🤔 I’m looking for help with js
-- 💬 Ask me about my goals
-- 📫 How to reach me: by email
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
 
+
+💼 My On-Going Research Portfolio :
+Bootcamp - Competitive Programming & Mathematics for Programmers MERN (Live 2022) 🔄
+Github Search Engine. i.CAMP (Live 2022) 🔄
+Schedule App (Live 2022) 🔄
+Data Scientist and FullStack AI/ML Research Bootcamp (Live 2022) 🔄
+
+
+
+
+Twitter Instagram Linkedin Email
