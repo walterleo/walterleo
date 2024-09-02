@@ -4,7 +4,7 @@
 **walterleo** is a ✨ _special_ ✨ repository.
 
 
-- 🔭 I’m currently working at CSnet
+- 🔭 I’m currently working at RNA Brisbane Showgrounds
 - 🌱 I’m currently learning Micro services
 - 👯 I’m looking to collaborate on any open source
 
